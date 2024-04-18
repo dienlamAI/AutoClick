@@ -227,6 +227,7 @@ def on_move1(event):
     y = root.winfo_y() + deltay
     root.geometry(f"+{x}+{y}")
 
+
 root = tk.Tk()
 root.title("AutoClick trong 1 cửa sổ")
 
