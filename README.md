@@ -1,33 +1,33 @@
 # AutoClick
 
-AutoClick là một công cụ mạnh mẽ giúp tự động hóa việc click chuột trên máy tính và điện thoại thông qua kết nối. Công cụ này có thể hoạt động trên một hoặc nhiều cửa sổ, hỗ trợ bạn trong nhiều tình huống khác nhau như chơi game, làm việc với các ứng dụng cần sự tương tác liên tục.
+AutoClick is a powerful tool designed to automate mouse clicks on both computers and phones through connectivity. This tool can operate across one or multiple windows, assisting you in various scenarios such as gaming or working with applications that require continuous interaction.
 
-## Tính năng chính
+## Key Features
 
-- **Tự động click trên máy tính**: Hỗ trợ tự động click trên một hoặc nhiều cửa sổ, giúp giảm thiểu công sức và thời gian trong quá trình làm việc hoặc giải trí.
-- **Tự động click thông qua kết nối với điện thoại**: Mở rộng khả năng tự động hóa ra ngoài máy tính, cho phép bạn tận dụng công cụ này trên thiết bị di động.
+- **Automatic Mouse Clicking on Computers**: Supports automatic clicking across one or multiple windows, minimizing effort and time during work or leisure activities.
+- **Automatic Clicking via Phone Connectivity**: Extends automation capabilities beyond the computer, allowing you to utilize this tool on mobile devices.
 
-## Cài đặt
+## Installation
 
-Để bắt đầu sử dụng AutoClick, bạn cần thực hiện theo các bước dưới đây:
+To get started with AutoClick, follow these steps:
 
-### Bước 1: Clone Repo
+### Step 1: Clone the Repository
 
-Mở terminal hoặc command prompt và nhập lệnh sau để clone repo về máy của bạn.
+Open your terminal or command prompt and run the following command to clone the repository to your machine:
 
 ```sh
 git clone https://github.com/DienStudio/AutoClick.git
 ```
 
-### Bước 2: Cài đặt các gói yêu cầu
+### Step 2: Install Required Packages
 
-Di chuyển vào thư mục vừa clone và chạy lệnh sau để cài đặt các gói yêu cầu.
+Navigate to the cloned directory and run the following command to install the required packages:
 
 ```sh
 cd AutoClick
 pip install -r requirements.txt
 ```
 
-## Sử dụng
+## Usage
 
-Sau khi hoàn tất quá trình cài đặt, bạn có thể bắt đầu sử dụng AutoClick để tự động hóa việc click chuột trên máy tính hoặc điện thoại. Để hiểu rõ hơn về cách sử dụng, vui lòng đọc tài liệu hướng dẫn hoặc ví dụ đi kèm trong repo.
+Once the installation is complete, you can begin using AutoClick to automate mouse clicks on your computer or phone. For detailed instructions on usage, please refer to the user documentation or examples included in the repository.
