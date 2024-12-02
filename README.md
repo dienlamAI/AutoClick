@@ -16,7 +16,7 @@ To get started with AutoClick, follow these steps:
 Open your terminal or command prompt and run the following command to clone the repository to your machine:
 
 ```sh
-git clone https://github.com/DienStudio/AutoClick.git
+git clone https://github.com/xndien2004/AutoClick.git
 ```
 
 ### Step 2: Install Required Packages
